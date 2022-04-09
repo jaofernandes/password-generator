@@ -1,5 +1,3 @@
-# password-generator
-😎 Gerador de Senhas desenvolvido usando HTML, CSS e Javascript.
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
@@ -9,7 +7,7 @@
     
   </a>
 
-  <h3 align="center">Gerador de Senhas Randômicas </h3>
+  <h3 align="center">Gerador de Senhas Randômicas 😎 </h3>
 
   <p align="center">
     <a href="https://github.com/jaofernandes/password-generator"><strong>Explore os arquivos »</strong></a>
